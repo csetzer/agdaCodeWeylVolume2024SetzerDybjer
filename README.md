@@ -7,12 +7,7 @@ Peter Dybjer (Dept. of Computer Science and Engineering, Chalmers University of 
 and
 Anton Setzer (Dept. of Computer Science, Swansea University, Swansea, UK).
 
-# Agda version
-This code was compiled with Agda version 2.6.3-cf7ea79
-It doesn't make use of the Standard Library.
-
 # Overview
-
 Directory
 agda/
 contains the agda code.
@@ -27,11 +22,10 @@ Github doesn't allow to make it viewable as a webpage, you need to download all 
 in html, and then view loadAll.html using your browser.
 
 Alternatively you can view the code at
-https://csetzer.github.io/articles/weylVolume2024/agdaCodeHtml/loadAll.html
-
-
-
-
 
 https://csetzer.github.io/articles/weylVolume2024/agdaCodeHtml/loadAll.html
 
+
+# Agda version used
+This code was compiled with Agda version 2.6.3-cf7ea79
+It doesn't make use of the Standard Library.
